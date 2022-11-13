@@ -1,5 +1,6 @@
 """Performing set union operation in Python(HackerRank)"""
 
+'''method 1'''
 # n = int(input())
 # l = list(input().split())
 # m = int(input())
@@ -9,5 +10,3 @@
 # s2 = set(k)
 
 # print(len(s1.union(s2)))
-
-
